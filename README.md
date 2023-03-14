@@ -1,26 +1,7 @@
-# Presentación
+## Estudiante: Julián Romero
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
-
-
-## Estudiante: Nombre estudiante
-
-Descripción
+Hola, soy Julián. Tengo 27 años y curso la carrera de Tecnicatura en Redes.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
+![racing](https://user-images.githubusercontent.com/127901358/225168087-069180fd-bd76-401f-af0e-2e71e41283c3.png)
